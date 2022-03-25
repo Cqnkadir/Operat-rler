@@ -1,0 +1,16 @@
+C:\Users\berfi\Sites\pratikler\operatörler\bin\Debug\net5.0\operatörler.exe
+C:\Users\berfi\Sites\pratikler\operatörler\bin\Debug\net5.0\operatörler.deps.json
+C:\Users\berfi\Sites\pratikler\operatörler\bin\Debug\net5.0\operatörler.runtimeconfig.json
+C:\Users\berfi\Sites\pratikler\operatörler\bin\Debug\net5.0\operatörler.runtimeconfig.dev.json
+C:\Users\berfi\Sites\pratikler\operatörler\bin\Debug\net5.0\operatörler.dll
+C:\Users\berfi\Sites\pratikler\operatörler\bin\Debug\net5.0\ref\operatörler.dll
+C:\Users\berfi\Sites\pratikler\operatörler\bin\Debug\net5.0\operatörler.pdb
+C:\Users\berfi\Sites\pratikler\operatörler\obj\Debug\net5.0\operatörler.csproj.AssemblyReference.cache
+C:\Users\berfi\Sites\pratikler\operatörler\obj\Debug\net5.0\operatörler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berfi\Sites\pratikler\operatörler\obj\Debug\net5.0\operatörler.AssemblyInfoInputs.cache
+C:\Users\berfi\Sites\pratikler\operatörler\obj\Debug\net5.0\operatörler.AssemblyInfo.cs
+C:\Users\berfi\Sites\pratikler\operatörler\obj\Debug\net5.0\operatörler.csproj.CoreCompileInputs.cache
+C:\Users\berfi\Sites\pratikler\operatörler\obj\Debug\net5.0\operatörler.dll
+C:\Users\berfi\Sites\pratikler\operatörler\obj\Debug\net5.0\ref\operatörler.dll
+C:\Users\berfi\Sites\pratikler\operatörler\obj\Debug\net5.0\operatörler.pdb
+C:\Users\berfi\Sites\pratikler\operatörler\obj\Debug\net5.0\operatörler.genruntimeconfig.cache
